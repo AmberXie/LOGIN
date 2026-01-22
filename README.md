@@ -14,6 +14,9 @@ Spatio-temporal models (Keras based):
 * Heterogeneous GCN-LSTM
 * Heterogeneous GCN-AR LSTM
 
+Pipeline to build spatio-temporal models:
+![Pipeline](Figure/GNNpipeline.png)
+
 **Table: AUCs of all temporal and spatio-temporal models at different forecasting horizons**
 
 | Features                          | Models        | AUC (1 s) | AUC (15 s) | AUC (30 s) |
