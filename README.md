@@ -1,4 +1,5 @@
-# LOGIN-Optimally controlled traffic light systems in local transport
+# Graph-based Spatio-Temporal Learning for Accurate Prediction of Traffic-Actuated Signals
+
 Machine learning models developed with Tensorflow to forecast time series (traffic-actuated lights)
 Temporal models:
 * Baseline
